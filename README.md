@@ -15,7 +15,7 @@ Swoole must support modules: sockets, openssl and curl
 ## Run and examples
 
 Use:
-php ./hl.test.php <threads count> <url to process>
+php ./hl.test.php &lt;threads count&gt; &lt;url to process&gt;
 
 Example:
 ```shell
