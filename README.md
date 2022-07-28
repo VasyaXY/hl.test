@@ -12,6 +12,8 @@ Swoole must support modules: sockets, openssl and curl
 
 ### 2. Clone this repo
 
+### 3. Change variable memory_limit in php.ini to 1500M or bigger for use a lot of threads
+
 ## Run and examples
 
 Use:
